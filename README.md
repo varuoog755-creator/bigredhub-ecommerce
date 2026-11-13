@@ -1,2 +1,5 @@
-# bigredhub-ecommerce
-BigRedHub YouTube comment automation tool - resource and backlink hub
+# BigRedHub for Ecommerce
+
+[BigRedHub](https://bigredhub.info) turns YouTube comments into ecommerce orders with intelligent auto-replies and tracking.
+
+Try it: https://bigredhub.info
